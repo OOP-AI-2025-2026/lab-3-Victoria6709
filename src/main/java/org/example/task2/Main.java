@@ -17,7 +17,7 @@ public class Main {
 
         System.out.println(cart);
 
-        cart.removeById(9);
+        cart.removeByArrayIndex(9);
 
         System.out.println(cart);
 
